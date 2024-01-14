@@ -83,7 +83,7 @@
         //算术
 `define OPCODE_BRANCH 7'b1100011
         //分支
-        `define `OPCODE_BR 7'b1100011
+        `define OPCODE_BR 7'b1100011
 
 `define OPCODE_JALR 7'b1100111
         //JALR
